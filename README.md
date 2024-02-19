@@ -1,7 +1,6 @@
-# 🙋🏻‍♂️ 𝗛𝗶, 𝘆𝗼𝘂'𝗿𝗲 𝘄𝗲𝗹𝗰𝗼𝗺𝗲! 🔎
+# 𝗛𝗶, 𝘆𝗼𝘂'𝗿𝗲 𝘄𝗲𝗹𝗰𝗼𝗺𝗲!
 
-- 𝓗𝓮𝓻𝓮 𝓲𝓼 𝓪 𝓫𝓲𝓽 𝓸𝓯 𝓶𝔂 𝓹𝓪𝓻𝓽𝓲𝓬𝓾𝓵𝓪𝓻 𝔀𝓸𝓻𝓴 𝓪𝓼 𝓼𝓽𝓾𝓭𝓮𝓷𝓽 𝓪𝓷𝓭 𝓪𝓶𝓪𝓽𝓮𝓾𝓻 𝓸𝓯 𝓹𝓻𝓸𝓰𝓻𝓪𝓶𝓶𝓲𝓷𝓰.
-
+- 𝓗𝓮𝓻𝓮 𝓲𝓼 𝓽𝓱𝓮 𝓼𝓾𝓶𝓶𝓪𝓻𝔂 𝓸𝓯 𝓼𝓸𝓶𝓮 𝓹𝓻𝓸𝓳𝓮𝓬𝓽𝓼 𝓻𝓮𝓵𝓪𝓽𝓮𝓭 𝓽𝓸 𝔀𝓮𝓫 𝓪𝓷𝓭 𝓼𝓸𝓯𝓽𝔀𝓪𝓻𝓮 𝓭𝓮𝓿𝓮𝓵𝓸𝓹𝓶𝓮𝓷𝓽.
 ## 𝑺𝒌𝒊𝒍𝒍𝒔
 ![Js](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white&labelColor=101010)
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white&labelColor=101010)
